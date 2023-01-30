@@ -10,5 +10,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andersonpro)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.linkedin.com/in/anderson-santos-a6ab7a142/" style="fill: red;"><img src="https://github.com/Andersonpro/icons/blob/main/linkedin.svg"></a>
-<a href="https://www.freecodecamp.org/andersonP" style="fill: red;"><img src="https://github.com/Andersonpro/icons/blob/main/free-code-camp.svg"></a>
+<a href="https://www.freecodecamp.org/andersonP" style="fill: red;"><img src="https://raw.githubusercontent.com/Andersonpro/icons/main/free-code-camp.svg"></a>
 
